@@ -29,7 +29,7 @@ export function HeroSection() {
           className={`${inter_thin.className} text-white font-medium mx-auto my-10 text-xl text-center relative leading-8 z-20`}
         >
           Your 1-2 sentence elevator pitch for what your product does and why
-          goes here. <br /> Be concise, get to the point, don't use jargon.
+          goes here. <br /> Be concise, get to the point, don&apos;t use jargon.
         </p>
 
         <button

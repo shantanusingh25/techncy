@@ -34,7 +34,7 @@ export default function Page() {
               className={`text-2xl font-semibold ${inter_thin.className} text-justify mt-20`}
             >
               At Techncy, we understand that every business is unique — and so
-              are its needs. That’s why we offer{" "}
+              are its needs. That&apos;s why we offer{" "}
               <Cover>
                 <LinkPreview url="https://images.unsplash.com/photo-1573164574472-797cdf4a5839?w=800&auto=format&fit=crop&q=60">
                   customly tailored solutions
@@ -44,7 +44,7 @@ export default function Page() {
 
               <br />
               <br />
-              Whether you’re a startup with a bold vision or a growing enterprise
+              Whether you&apos;re a startup with a bold vision or a growing enterprise
               refining your digital strategy, we take the time to learn about your
               business so we can design experiences that truly fit.
 
@@ -66,7 +66,7 @@ export default function Page() {
 
               <br />
               <br />
-              We don’t believe in one-size-fits-all. We build products that are as
+              We don&apos;t believe in one-size-fits-all. We build products that are as
               unique as your business, ensuring better performance, deeper user
               engagement, and long-term satisfaction.
 

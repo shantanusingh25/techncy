@@ -33,7 +33,7 @@ export default function Page() {
             <h1
               className={`text-2xl font-semibold ${inter_thin.className} text-justify mt-20`}
             >
-              At Techncy, we understand the importance of speed and security in today’s digital landscape. Our{" "}
+              At Techncy, we understand the importance of speed and security in today&apos;s digital landscape. Our{" "}
               <Cover>
                 <LinkPreview
                   url={
@@ -43,7 +43,7 @@ export default function Page() {
                   fast websites
                 </LinkPreview>
               </Cover>{" "}
-              are optimized to load quickly, ensuring that your customers have a seamless experience, whether they’re accessing your site on a desktop or mobile device.
+              are optimized to load quickly, ensuring that your customers have a seamless experience, whether they&apos;re accessing your site on a desktop or mobile device.
 
               <br />
               <br />
@@ -61,11 +61,11 @@ export default function Page() {
 
               <br />
               <br />
-              With our fast and secure solutions, you can be sure that your website will perform flawlessly while keeping your visitors' information safe. Whether you're running a small blog or a large e-commerce platform, we provide tailored strategies to optimize both speed and security.
+              With our fast and secure solutions, you can be sure that your website will perform flawlessly while keeping your visitors&apos; information safe. Whether you&apos;re running a small blog or a large e-commerce platform, we provide tailored strategies to optimize both speed and security.
 
               <br />
               <br />
-              Don't let slow loading times or security breaches impact your business. Let’s build a website that’s not only fast but also bulletproof.
+              Don&apos;t let slow loading times or security breaches impact your business. Let&apos;s build a website that&apos;s not only fast but also bulletproof.
             </h1>
           </div>
 

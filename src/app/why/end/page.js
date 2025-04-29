@@ -43,11 +43,11 @@ export default function Page() {
                   end-to-end support
                 </LinkPreview>
               </Cover>{" "}
-              throughout your entire project lifecycle. From the initial concept to the final deployment, we're with you every step of the way.
+              throughout your entire project lifecycle. From the initial concept to the final deployment, we&apos;re with you every step of the way.
 
               <br />
               <br />
-              Whether you're designing a new website, developing a custom application, or optimizing existing systems, our team is dedicated to providing continuous support and guidance. Our commitment is to ensure that your project stays on track, meets deadlines, and exceeds expectations.
+              Whether you&apos;re designing a new website, developing a custom application, or optimizing existing systems, our team is dedicated to providing continuous support and guidance. Our commitment is to ensure that your project stays on track, meets deadlines, and exceeds expectations.
 
               <br />
               <br />
@@ -79,7 +79,7 @@ export default function Page() {
 
               <br />
               <br />
-              With Techncy's end-to-end support, you're not just getting a product — you're getting a long-term partner committed to your success.
+              With Techncy&apos;s end-to-end support, you&apos;re not just getting a product — you&apos;re getting a long-term partner committed to your success.
             </h1>
           </div>
 

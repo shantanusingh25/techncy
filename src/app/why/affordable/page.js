@@ -46,7 +46,7 @@ export default function Page() {
 
               <br />
               <br />
-              Whether you're a startup or a large-scale company, we craft
+              Whether you&apos;re a startup or a large-scale company, we craft
               tailored strategies to deliver{" "}
               <Cover>
                 <LinkPreview
@@ -91,11 +91,11 @@ export default function Page() {
                   SEO, security, and deployment
                 </LinkPreview>
               </Cover>
-              — we're here to grow your digital presence with precision.
+              — we&apos;re here to grow your digital presence with precision.
 
               <br />
               <br />
-              You're not just investing in code — you're investing in growth,
+              You&apos;re not just investing in code — you&apos;re investing in growth,
               design, and reliability. Let’s build your vision without breaking the bank.
             </h1>
           </div>

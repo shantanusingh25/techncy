@@ -63,7 +63,7 @@ export default function Page() {
 
               <br />
               <br />
-              Whether it's handling thousands of users or powering mission-critical platforms, you can trust Techncy for consistent, unmatched performance — every single time.
+              Whether it&apso;s handling thousands of users or powering mission-critical platforms, you can trust Techncy for consistent, unmatched performance — every single time.
             </h1>
           </div>
 

@@ -29,13 +29,13 @@ export default function PricingSection() {
             className={`text-3xl font-semibold ${inter_thin.className} text-justify mt-20`}
           >
             At Techncy, we believe that <Cover><LinkPreview url={"https://plus.unsplash.com/premium_vector-1731367068054-21912e01402a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJpY2luZ3xlbnwwfHwwfHx8MA%3D%3D"}>you deserve fair and flexible pricing</LinkPreview></Cover> — not confusing packages or hidden costs. 
-            We offer tailor-made pricing models that align with your project's needs and budget. Whether you're a startup, a growing business, or an established enterprise, we ensure you receive <Cover ><LinkPreview url={"https://plus.unsplash.com/premium_vector-1682308884503-1aca36c07cfe?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZm9ybWFuY2V8ZW58MHx8MHx8fDA%3D"}>high-performance, scalable solutions</LinkPreview></Cover> without overpaying.
+            We offer tailor-made pricing models that align with your project&apos;s needs and budget. Whether you&apos;re a startup, a growing business, or an established enterprise, we ensure you receive <Cover ><LinkPreview url={"https://plus.unsplash.com/premium_vector-1682308884503-1aca36c07cfe?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZm9ybWFuY2V8ZW58MHx8MHx8fDA%3D"}>high-performance, scalable solutions</LinkPreview></Cover> without overpaying.
             <br />
             <br />
             From <Cover><LinkPreview url={"https://images.unsplash.com/file-1719664968387-83d5a3f4d758image?w=416&dpr=2&auto=format&fit=crop&q=60"}>modern website development</LinkPreview></Cover> and <Cover ><LinkPreview url={"https://plus.unsplash.com/premium_vector-1720102933713-e3ad74c8b32c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2ViJTIwZGVzaWdufGVufDB8fDB8fHww"}>intuitive app design</LinkPreview></Cover> to <Cover><LinkPreview url={"https://plus.unsplash.com/premium_vector-1714618885375-9e236df01ad1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2VvfGVufDB8fDB8fHww"}>SEO, security, and deployment</LinkPreview></Cover> — our mission is to empower your business with world-class technology and thoughtful service.
             <br />
             <br />
-            You're not just paying for code — you're investing in reliability, design, and growth. Let’s build something great together.
+            You&apos;re not just paying for code — you&apos;re investing in reliability, design, and growth. Let’s build something great together.
           </h1>
         </div>
       </section>
