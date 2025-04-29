@@ -1,0 +1,34 @@
+
+// Add this to your global CSS or tailwind config
+// .animate-spin-slow {
+//   animation: spin 8s linear infinite;
+// }
+
+
+
+
+
+
+// Server Action for form submission
+// export async function submitPricingForm(formData) {
+// //   "use server";
+//   try {
+//     const data = {
+//       name: formData.get("name"),
+//       email: formData.get("email"),
+//       projectDescription: formData.get("projectDescription"),
+//       budget: parseFloat(formData.get("budget")),
+//       remarks: formData.get("remarks"),
+//       meetingDate: formData.get("meetingDate"),
+//     };
+
+//     // Simulate API call or database operation
+//     console.log("Form submitted:", data);
+//     // Example: await db.pricingRequests.insert(data);
+
+//     return { success: true, message: "Form submitted successfully!" };
+//   } catch (error) {
+//     console.error("Form submission error:", error);
+//     return { success: false, message: "Failed to submit form. Please try again." };
+//   }
+// }
